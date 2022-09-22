@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "852226476818",
+    "project_id": "smokingapp-91bf4",
+    "storage_bucket": "smokingapp-91bf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852226476818:android:b26b107830a878258d41cb",
+        "android_client_info": {
+          "package_name": "com.example.smokingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852226476818-0rkulktsoa5sruikit73q4m4h7g9omkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS8vaHZ36bYJFX2fpZktpXtIvZ0N_pa-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852226476818-0rkulktsoa5sruikit73q4m4h7g9omkp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
